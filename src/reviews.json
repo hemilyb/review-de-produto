@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Maria Oliveira",
+    "review": "Ótimo fone! O som é cristalino e o conforto é incomparável. Vale cada centavo.",
+    "stars": 5
+  },
+  {
+    "name": "João Silva",
+    "review": "Gostei do design e da qualidade sonora, mas achei um pouco pesado após longos períodos de uso.",
+    "stars": 4
+  },
+  {
+    "name": "Fernanda Lima",
+    "review": "Excelente! O cancelamento de ruído é fantástico. Recomendo para quem quer ouvir música sem distrações.",
+    "stars": 5
+  },
+  {
+    "name": "Carlos Mendes",
+    "review": "O fone é bom, mas os graves poderiam ser um pouco mais fortes. No geral, uma boa compra.",
+    "stars": 3
+  },
+  {
+    "name": "Ana Costa",
+    "review": "Muito bom, mas não se ajusta bem em minha cabeça. O som é ótimo, mas ainda preciso me acostumar.",
+    "stars": 4
+  }
+]
